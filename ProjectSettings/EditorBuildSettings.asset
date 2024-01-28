@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/V2 Working.unity
     guid: f958f32039058d34fb2f1956ef3d4347
+  - enabled: 1
+    path: Assets/Scenes/BattleRoomClean.unity
+    guid: 5e5761edb7d99a94aa339d99a611cc8d
+  - enabled: 1
+    path: Assets/Scenes/BattleRoom.unity
+    guid: b54450699545f654cbdc96e0f5a87383
   - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
     guid: a9c41884ef0c347628dfd8a4af4a022e
@@ -17,9 +23,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Launcher.unity
     guid: d4440d07761f5ff4786498f5941eff30
-  - enabled: 1
-    path: Assets/Scenes/BattleRoom.unity
-    guid: b54450699545f654cbdc96e0f5a87383
   - enabled: 1
     path: Assets/Scenes/Room for 1.unity
     guid: a4687bc80e52369458aa1c9fbd3f868b
@@ -32,9 +35,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Room for 4.unity
     guid: d69ed0b25bdd40047bd73d3c7cf6904f
-  - enabled: 1
-    path: Assets/Scenes/BattleRoomClean.unity
-    guid: 5e5761edb7d99a94aa339d99a611cc8d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7eed396ce79dc964cbead1f1e9cc1c14, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9f98915a4fea9e64b93f93926b28c6b0, type: 2}

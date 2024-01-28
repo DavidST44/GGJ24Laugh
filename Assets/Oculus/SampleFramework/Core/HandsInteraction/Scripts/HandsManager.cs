@@ -202,7 +202,7 @@ namespace OculusSampleFramework
 			StartCoroutine(FindSkeletonVisualGameObjects());
 		}
 
-		private void Update()
+		private void Update() 
 		{
 			switch (VisualMode)
 			{

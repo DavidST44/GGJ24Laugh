@@ -1130,6 +1130,10 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3895585588445357128, guid: b68d9f67b94912e4aab4be5a6bb671c0, type: 3}
+      propertyPath: sceneViewId
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7091153975222972470, guid: b68d9f67b94912e4aab4be5a6bb671c0, type: 3}
       propertyPath: m_Name
       value: Player
@@ -1137,6 +1141,10 @@ PrefabInstance:
     - target: {fileID: 7091153975222972470, guid: b68d9f67b94912e4aab4be5a6bb671c0, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8352997660990325880, guid: b68d9f67b94912e4aab4be5a6bb671c0, type: 3}
+      propertyPath: sceneViewId
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
